@@ -7,7 +7,7 @@ date: 2021-02-09
 # Cannoli Pie
 
 ## Intro
-*When I was in Rome a few years ago, I ordered a cannoli from an upscale restaraunt in Piazza Navona.  While delicious, it vanished in three bites and left more emptiness than substance in my stomach. The vacant feeling followed me to graduate school until, in a Coleridge-esque fashion, the inspiration came to me during a bout of research-induced sleep deprivation.  Canolli in pie form would contain the filling efficiently and the handcrafted shells could be neglected entirely.  The cracker crust and chocolate elements followed naturally while the addition of the hazlenut flavor was to ward off my allergy-prone roommate.*
+*When I was in Rome a few years ago, I ordered a cannoli from an upscale restaraunt in Piazza Navona.  While delicious, it vanished in three bites and left more emptiness than substance in my stomach. The vacant feeling followed me to graduate school until, in a Coleridge-esque fashion, inspiration came to me during a bout of research-induced sleep deprivation.  Canolli in pie form would contain the filling efficiently and the handcrafted shells could be neglected entirely.  The cracker crust and chocolate elements followed naturally while the addition of the hazlenut flavor was to ward off my allergy-prone roommate.*
 
 ## Graham Cracker Crust
  - 2c crushed graham crackers (about 1 package of 8)
@@ -35,6 +35,7 @@ date: 2021-02-09
 
 ## Chocolate
 ![](/media/cannoli_pie/5.jpg){:width="480px" }
+
 *The chocolate gets used twice: as chips for the ricotta mixture and as a layer between the nutella and canolli.  The Lindt bars were slightly too thick for both purposes, so I remelted it into a thinner sheet.*
  - 6 oz chocolate (70% cocoa Lindt)
 
@@ -44,9 +45,11 @@ date: 2021-02-09
 
 ## Assembly
 ![](/media/cannoli_pie/2.jpg){:width="480px" }
+
 **Spread the nutella *(gently)* into the cooled crust. Arrange chocolate squares in some cool pattern that won't be visible in the final dish, and press firmly into nutella.**
 
 ![](/media/cannoli_pie/6.jpg){:width="480px" }
+
 **Spread ricotta liberally over chocolate layer, with more in the center.  Sprinkle powdered sugar on top.  Serve. The pie can be refrigerated, but the nutella will harden and be less flavorful after an hour or two chilled.**
 
 
