@@ -4,8 +4,6 @@ title: "Cannoli Pie"
 date: 2021-02-09
 ---
 
-# Cannoli Pie
-
 ## Intro
 *When I was in Rome a few years ago, I ordered a cannoli from an upscale restaraunt in Piazza Navona.  While delicious, it vanished in three bites and left more emptiness than substance in my stomach. The vacant feeling followed me to graduate school until, in a Coleridge-esque fashion, inspiration came to me during a bout of research-induced sleep deprivation.  Canolli in pie form would contain the filling efficiently and the handcrafted shells could be neglected entirely.  The cracker crust and chocolate elements followed naturally while the addition of the hazlenut flavor was to ward off my allergy-prone roommate.*
 
